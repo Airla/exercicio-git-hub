@@ -3,7 +3,7 @@
 ## Dupla:
 
 - Airla Vanessa Cordeiro da Silva: [GitHub](https://github.com/Airla)
-- Nome do integrante 2: [GitHub](https://github.com/Luiz-de-Lima)
+- Luiz de Lima: [GitHub](https://github.com/Luiz-de-Lima)
 
 ### Confingurações do Git
 
